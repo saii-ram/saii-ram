@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sai Bades</h1>
-<h3 align="center">Computer Science Student | Software Developer | AI Enthusiast | Cybersecurity Learner</h3>
+<h1 align="center">Hi 👋, I'm Sai</h1>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saibades&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
+- 🎓 Computer Science student
+- 💻 Passionate about Software Development, AI, and Game Development
+- 🌱 Currently learning Full Stack Development and Machine Learning
+- 🎯 Goal: Build impactful applications and contribute to open source
 
-<div align="justify">
-
-I am a Computer Science student with a strong passion for software development, artificial intelligence, and cybersecurity. I enjoy building practical applications that solve real-world problems while continuously expanding my knowledge of modern technologies. My primary interests include full-stack web development, machine learning, and creating scalable software solutions.
-
-I believe in learning by building projects, contributing to open-source software, and constantly improving my programming skills. My goal is to become a skilled software engineer capable of developing innovative and impactful applications.
-
-</div>
+---
 
 ---
 
