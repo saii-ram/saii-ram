@@ -59,7 +59,7 @@
 
 **GradeGenie** is an academic management platform designed to simplify student result management and academic record tracking. The project focuses on providing an intuitive interface for managing educational data while ensuring efficiency, reliability, and ease of use.
 
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+**Tech Stack:** React.js | Express.js | Node.js | MongoDB
 
 </div>
 
@@ -68,8 +68,8 @@
 <h2 align="center">📈 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saii-ram&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saii-ram&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=saii-ram&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saii-ram&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
